@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougalakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="yougalakshmi" /> </p>
 
-- 🔭 I’m currently working on **HydroGuard(Rescue bot)**
+- 🔭 I’m currently working on **Upskilling My knowledge**
 
-- 🌱 I’m currently learning **Data Analysis and visuvalization**
+- 🌱 I’m currently learning **B.E.ELECTRONICS AND COMMUNICATION ENGINEERING**
 
 - 💬 Ask me about **LabView,Matlab**
 
