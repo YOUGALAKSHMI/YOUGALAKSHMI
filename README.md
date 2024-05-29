@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yougalakshmi</h1>
-<h3 align="center">I am Passionate about Embedded System and Software Development</h3>
+<h3 align="center">I am Passionate about Machine Learning and Product Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougalakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="yougalakshmi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Skill Enhancement and Professional Development**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently upskilling my ***MACHINE LEARNING SKILL*
 
 - 💬 Ask me about **LabView**
 
