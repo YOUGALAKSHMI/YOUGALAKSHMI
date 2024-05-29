@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Skill Enhancement and Professional Development**
 
-- 🌱 I’m currently upskilling my ***MACHINE LEARNING SKILL*
+- 🌱 I’m currently upskilling my **MACHINE LEARNING SKILL**
 
 - 💬 Ask me about **LabView**
 
