@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yougalakshmi</h1>
-<h3 align="center">I am Passionate about Machine Learning and Product Development</h3>
+<h3 align="center">I am Passionate about Machine Learning and Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougalakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="yougalakshmi" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yougalakshmi.2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFMpLJQz3KBjnO_lajNT82yhV22tX_Xh/view?usp=sharing](https://drive.google.com/file/d/1KFMpLJQz3KBjnO_lajNT82yhV22tX_Xh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KFMpLJQz3KBjnO_lajNT82yhV22tX_Xh/view?usp=sharing](https://drive.google.com/file/d/1xbBIHtW40KvdDH2AioDWPtHXt9EdEJbm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
